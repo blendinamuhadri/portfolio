@@ -57,6 +57,23 @@ function Projects() {
           </div>
         </div>
 
+        <div className="project-card">
+          <div className="project-img">📝</div>
+          <div className="project-body">
+            <div className="project-type">Form Builder</div>
+            <h3 className="project-title">Formify</h3>
+            <p className="project-desc">Platforme per krijimin e formave, mbledhjen e pergjigjeve dhe kolaborim ne kohe reale — e ngjashme me Google Forms dhe Sheets.</p>
+            <div className="project-techs">
+              <span className="project-tech">React.js</span>
+              <span className="project-tech">Node.js</span>
+              <span className="project-tech">MongoDB</span>
+              <span className="project-tech">MySQL</span>
+              <span className="project-tech">Socket.io</span>
+            </div>
+            <a href="https://github.com/ValzaFerizi/ChatterHub" target="_blank" rel="noreferrer" className="project-link">Shiko Projektin →</a>
+          </div>
+        </div>
+
       </div>
     </div>
   );
