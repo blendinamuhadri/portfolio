@@ -17,7 +17,7 @@ function App() {
       <Experience />
       <Contact />
       <footer className="footer">
-        © 2025 Emri Juaj — Te gjitha te drejtat e rezervuara
+        © 2025 Blendina Muhadri — Te gjitha te drejtat e rezervuara
       </footer>
     </div>
   );
