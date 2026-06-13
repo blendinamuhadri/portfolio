@@ -1,4 +1,5 @@
 import React from 'react';
+import profileImg from '../IMG_7614.jpeg';
 
 function Hero() {
   return (
@@ -36,7 +37,7 @@ function Hero() {
         </div>
 
         <div className="hero-avatar">
-          <span>YN</span>
+          <img src={profileImg} alt="Blendina Muhadri" className="hero-avatar-img" />
         </div>
 
       </div>
